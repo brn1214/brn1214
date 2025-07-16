@@ -43,7 +43,7 @@
 <p align="center">
 <a href="https://github.com/brn1214">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brn1214&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brn1214&layout=compact&langs_count=8&theme=algolia&cache_seconds=10"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brn1214&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
